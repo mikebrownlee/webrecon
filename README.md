@@ -22,9 +22,6 @@ Replace [url] with the target URL. The script will create a directory structure 
 Directory Structure
 
 The script will create the following directory structure:
-
-csharp
-
 [URL]
 └── recon
     ├── httprobe
@@ -36,7 +33,7 @@ csharp
 
 Contribution
 
-If you wish to contribute to the development of this script, feel free to create a pull request. Any and all contributions are welcome.
+If you wish to contribute to developing this script, feel free to create a pull request. Any and all contributions are welcome.
 Disclaimer
 
 This script is meant for educational and ethical use only. Do not use it for illegal activities. The author does not accept any responsibility for any misuse of this script.
